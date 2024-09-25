@@ -1,0 +1,14 @@
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.AssemblyInfoInputs.cache
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.AssemblyInfo.cs
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.csproj.CoreCompileInputs.cache
+/Users/datnt/Downloads/test/Cau5/bin/Debug/net8.0/Cau5
+/Users/datnt/Downloads/test/Cau5/bin/Debug/net8.0/Cau5.deps.json
+/Users/datnt/Downloads/test/Cau5/bin/Debug/net8.0/Cau5.runtimeconfig.json
+/Users/datnt/Downloads/test/Cau5/bin/Debug/net8.0/Cau5.dll
+/Users/datnt/Downloads/test/Cau5/bin/Debug/net8.0/Cau5.pdb
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.dll
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/refint/Cau5.dll
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.pdb
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/Cau5.genruntimeconfig.cache
+/Users/datnt/Downloads/test/Cau5/obj/Debug/net8.0/ref/Cau5.dll

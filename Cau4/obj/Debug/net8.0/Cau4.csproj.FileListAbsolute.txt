@@ -1,0 +1,14 @@
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.AssemblyInfoInputs.cache
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.AssemblyInfo.cs
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.csproj.CoreCompileInputs.cache
+/Users/datnt/Downloads/test/Cau4/bin/Debug/net8.0/Cau4
+/Users/datnt/Downloads/test/Cau4/bin/Debug/net8.0/Cau4.deps.json
+/Users/datnt/Downloads/test/Cau4/bin/Debug/net8.0/Cau4.runtimeconfig.json
+/Users/datnt/Downloads/test/Cau4/bin/Debug/net8.0/Cau4.dll
+/Users/datnt/Downloads/test/Cau4/bin/Debug/net8.0/Cau4.pdb
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.dll
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/refint/Cau4.dll
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.pdb
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/Cau4.genruntimeconfig.cache
+/Users/datnt/Downloads/test/Cau4/obj/Debug/net8.0/ref/Cau4.dll

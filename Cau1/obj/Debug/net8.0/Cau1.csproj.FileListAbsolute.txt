@@ -1,0 +1,14 @@
+/Users/datnt/Downloads/test/Cau1/bin/Debug/net8.0/Cau1
+/Users/datnt/Downloads/test/Cau1/bin/Debug/net8.0/Cau1.deps.json
+/Users/datnt/Downloads/test/Cau1/bin/Debug/net8.0/Cau1.runtimeconfig.json
+/Users/datnt/Downloads/test/Cau1/bin/Debug/net8.0/Cau1.dll
+/Users/datnt/Downloads/test/Cau1/bin/Debug/net8.0/Cau1.pdb
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.AssemblyInfoInputs.cache
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.AssemblyInfo.cs
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.csproj.CoreCompileInputs.cache
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.dll
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/refint/Cau1.dll
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.pdb
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/Cau1.genruntimeconfig.cache
+/Users/datnt/Downloads/test/Cau1/obj/Debug/net8.0/ref/Cau1.dll
